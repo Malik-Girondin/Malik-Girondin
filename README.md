@@ -5,6 +5,7 @@
 * 📹 Subscribe to my YouTube Channel: https://m.youtube.com/@malikgirondin/videos
 * 🎨 Check out my Portfolio Site: https://bit.ly/MalikResume
 * 🌟 Why did I get into IT (Article): https://bit.ly/MalikStory
+* 📕 How did I get into Teaching (Article): https://bit.ly/MalikTeach
 * 🎓 Check out my Udemy Course: https://bit.ly/ContentEngineer
 
 #
