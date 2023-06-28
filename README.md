@@ -5,3 +5,4 @@
 * 📹 Subscribe to my YouTube Channel: https://m.youtube.com/@malikgirondin/videos
 * 🎨 Check out my Portfolio Site: https://bit.ly/MalikResume
 * 🌟 Why did I get into IT (Article): https://bit.ly/MalikStory
+* 🎓 Check out my Udemy Course: https://bit.ly/ContentEngineer
